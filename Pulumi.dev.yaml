@@ -1,0 +1,8 @@
+config:
+  gcp-infra:instance_disk_size: "50"
+  gcp-infra:instance_image: ubuntu-1604-xenial-v20191010
+  gcp-infra:instance_name: dev
+  gcp-infra:instance_type: n1-highmem-2
+  gcp:project: myproject
+  gcp:region: us-central1
+  gcp:zone: us-central1-a
